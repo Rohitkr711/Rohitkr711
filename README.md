@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rohitkr711
-- 👀 I’m interested in Web development/ Software development.
-- 🌱 I’m currently learning AI and JavaScript.
+- 👋 Hi, I’m @Rohitkr711 from Pune, India
+- 👀 I’m interested in Software development & Tech.
+- 🌱 I’m currently learning software development and JavaScript ecosystem.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
