@@ -27,5 +27,5 @@ I focus on developing strong fundamentals, writing clean and readable code, and 
 - Discussing software fundamentals and problem-solving approaches
 
 ### 📫 Reach me
-- LinkedIn: [your-link-here]
-- Email: your-email-here
+- LinkedIn: [https://www.linkedin.com/in/rohit-kumar-24b932209/]
+- Email: rohitkumar892019@gmail.com
