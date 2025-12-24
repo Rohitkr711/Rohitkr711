@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rohit
 
-I’m a software engineer who enjoys learning by building and solving real software problems.
+I’m a software engineer by practuce who enjoys learning by building and solving real software problems.
 
 I focus on developing strong fundamentals, writing clean and readable code, and understanding how things work under the hood rather than chasing tools blindly.
 
